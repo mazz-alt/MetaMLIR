@@ -51,3 +51,8 @@ If you find the code useful, please consider citing our paper using the followin
 [1] The backbone network for pretraining in the first-level classifiers is largely adapted from [SimMTM](https://github.com/thuml/SimMTM). Thanks to Jiaxiang Dong.
 
 [2] The data generation scripts for the CT motion pattern are adapted from [DeepMTT](https://github.com/ljx43031/DeepMTT-algorithm). Thanks to Jingxian Liu.
+
+
+## Contact
+If you have any questions, please contact mazhenzhen23@nudt.edu.cn.
+
