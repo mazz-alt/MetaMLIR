@@ -1,7 +1,6 @@
 ## MetaMLIR: Meta-learning with Multilevel Integration for Motion Pattern Recognition of Maneuvering Targets
 
-<embed src="./figures/all_01(1).jpg" type="application/pdf" width="100%" height="600px" />
-
+<img src="./figures/all_01(1).jpg" width="35%" />
 
 ## Algorithm Introduction
 We introduce a two-level meta-learning-based classification method (MetaMLIR) and construct an open-source target motion trajectory dataset (TMT dataset). Experiments on both the self-developed TMT dataset and the real-world NCLT dataset demonstrate that the proposed method achieves improved recognition performance under both non-pattern-switching and pattern-switching scenarios. The primary contributions of this paper are as follows:
